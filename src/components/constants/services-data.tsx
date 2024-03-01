@@ -3,7 +3,6 @@ import {
   IconSun,
   IconApps,
   IconBrandSpeedtest,
-  IconLayersSubtract,
   IconRefresh,
   IconShieldLock,
 } from "@tabler/icons-react";
